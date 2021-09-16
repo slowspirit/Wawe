@@ -6,4 +6,4 @@ HTML CSS jQuery<br>
 BEM<br>
 SLICK-slider<br>
 Mixitup<br>
-fancybox<br>
+fancybox (gallery & video)<br>
